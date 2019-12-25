@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: travel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mac
+Implementation-Vendor-Id: com.competition
+Created-By: IntelliJ IDEA
+Build-Jdk: 1.8.0_201
+Main-Class: ${start-class}
+

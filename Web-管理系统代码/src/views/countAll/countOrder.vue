@@ -1,0 +1,22 @@
+<template>
+    <div class="chart-container">
+      <Chart height="100%" width="100%" />
+    </div>
+</template>
+
+<script>
+import Chart from '@/components/Charts/LianChart'
+
+export default {
+    name:'LianChart',
+    components:{ Chart }
+}
+</script>
+
+<style scoped>
+.chart-container{
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 84px);
+}
+</style>
